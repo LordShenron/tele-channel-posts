@@ -1,0 +1,4 @@
+# About
+
+An ugly shell script that creates channel posts and send it to Project Sakura channel using BotFather Bot's API. 
+You will need to get API_TOKEN from BotFather and telegram group's USERNAME to use this script. 
